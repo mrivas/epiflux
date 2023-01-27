@@ -1,0 +1,17 @@
+Organism	Condition	GeneExpFile	Medium	Network	KnownUptakes
+S_cerevisiae	T1	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T1.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-2.92082724
+S_cerevisiae	T2	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T2.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-4.47803413
+S_cerevisiae	T3	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T3.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-6.0975081
+S_cerevisiae	T4	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T4.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-4.67754614
+S_cerevisiae	T5	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T5.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-5.69895802
+S_cerevisiae	T6	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T6.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-5.22806652
+S_cerevisiae	T7	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T7.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-5.05388932
+S_cerevisiae	T8	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T8.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-5.03964254
+S_cerevisiae	T9	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T9.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-5.23731737
+S_cerevisiae	T10	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T10.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-5.22137127
+S_cerevisiae	T11	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T11.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-3.75965776
+S_cerevisiae	T12	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T12.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-1.25370044
+S_cerevisiae	T13	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T13.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-2.20508958
+S_cerevisiae	T14	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T14.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-2.97076367
+S_cerevisiae	T15	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T15.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-2.76457827
+S_cerevisiae	T16	/home/bguzman/jupyter/UI/YMC/data/RNA_seq_T_all/T16.txt	/home/bguzman/jupyter/UI/YMC/data/mediums/Scerevisiae_Mediumfile_Kuang.csv	/home/bguzman/jupyter/UI/YMC/gems/iMM904_ac_me_jan_06.xml	-2.47247774
