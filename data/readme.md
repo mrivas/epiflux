@@ -1,3 +1,0 @@
-- gems
-- mediums
-- transcriptomes
