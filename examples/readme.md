@@ -16,7 +16,7 @@ The input file is a comma-separated file containing: the name of the organism, t
 More than one row can be defined in the same file. Pheflux will be run on the data provided for each line. For example, the input file ```examples/data/InputData_yeast_example.csv``` contains the following:
 | **Organism** | **Condition**        | **GeneExpFile**                                          | **Medium**                                      | **Network**                          | **KnownFluxes**                      |                        
 |--------------|----------------------|----------------------------------------------------------|-------------------------------------------------|--------------------------------------|--------------------------------------|
-| Scerevisiae  | T1                   | data/transcriptomes/T1.csv                               | data/mediums/Scerevisiae_Mediumfile_Kuang2.csv  | data/gems/iMM904_ac_me_glycogen.xml  |/data/knownFluxes/knownFluxes_T1.csv
+| Scerevisiae  | T1                   | data/transcriptomes/T1.csv                               | data/mediums/Scerevisiae_Mediumfile_Kuang2.csv  | data/gems/iMM904_ac_me_glycogen.xml  | data/knownFluxes/knownFluxes_T1.csv  |
 
 ### Results directory
 A string describing the folder where the output files will be stored. 
