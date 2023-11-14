@@ -3,7 +3,7 @@ sys.path.insert(0, '../')
 
 import argparse
 import os
-import pheflux
+import Epiflux
 
 
 # Description:
