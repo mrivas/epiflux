@@ -28,4 +28,4 @@ Pheflux also produces a log file with summary statistics of all computations. Th
 Two output files are generated:
 - ```Organism_Condition_STATUS.fluxes.csv```: Comma-separated file containing the fluxome estimation. 
 - ```Organism_Condition_STATUS.Log.csv```: Comma-separated file containing various statistics.
-For both files, the words ```Organism```, and ```Condition``` are extracted from the ```examples/data/InputData_example.csv``` file, and the ```STATUS``` word indicates ```IPOPT``` finalization condition.
+For both files, the words ```Organism```, and ```Condition``` are extracted from the ```examples/data/InputData_yeast_example.csv``` file, and the ```STATUS``` word indicates ```IPOPT``` finalization condition.
