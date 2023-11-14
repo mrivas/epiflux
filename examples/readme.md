@@ -1,7 +1,7 @@
 # Examples
 The use of `Epiflux.py` is exemplified in the following files:
-- tutorial.ipynb: Tutorial of `pheflux2.0.py` using Jupyter notebook.
-- example.sh: Example run of pheflux.py using Linux bash script. It calls the `pheflux-terminal.py` file.
+- tutorial.ipynb: Tutorial of `Epiflux.py` using Jupyter notebook.
+- example.sh: Example run of pheflux.py using Linux bash script. It calls the `Epiflux-terminal.py` file.
 
 Both examples use the information stored in the `data` folder and save the outputs in the `results` folder. The inputs and outputs are described below.
 
@@ -13,7 +13,7 @@ Four inputs are needed:
 - ```prefix_log_file``` : Prefix log output file.
 ### Input file
 The input file is a comma-separated file containing: the name of the organism, the condition, medium, gene expression file, and genome-scale metabolic network. 
-More than one row can be defined in the same file. Pheflux will be run on the data provided for each line. For example, the input file ```examples/data/InputData_example.csv``` contains the following:
+More than one row can be defined in the same file. Pheflux will be run on the data provided for each line. For example, the input file ```examples/data/InputData_yeast_example.csv``` contains the following:
 | **Organism** | **Condition**        | **GeneExpFile**                                          | **Medium**                                      | **Network**                          | **KnownFluxes**                      |                        
 |--------------|----------------------|----------------------------------------------------------|-------------------------------------------------|--------------------------------------|--------------------------------------|
 | Scerevisiae  | T1                   | data/transcriptomes/T1.csv                               | data/mediums/Scerevisiae_Mediumfile_Kuang2.csv  | data/gems/iMM904_ac_me_glycogen.xml  |/data/knownFluxes/knownFluxes_T1.csv
