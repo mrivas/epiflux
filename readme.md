@@ -1,4 +1,4 @@
 # Contents:
-- pheflux2.0.py: Pheflux computational implementation in Python3.
-- examples: Folder containing examples running pheflux2.0 for *S. cerevisiae*
+- Epiflux.py: Pheflux computational implementation in Python3 + integration of experimental fluxes.
+- examples: Folder containing examples running Epiflux for *S. cerevisiae*
 - paper_figures: Jupyter notebooks used to generate the figures of the paper.
