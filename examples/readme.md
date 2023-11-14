@@ -1,7 +1,7 @@
 # Examples
-The use of `Epiflux.py` is exemplified in the following files:
-- tutorial.ipynb: Tutorial of `Epiflux.py` using Jupyter notebook.
-- example.sh: Example run of Epiflux.py using Linux bash script. It calls the `Epiflux-terminal.py` file.
+The use of `epiflux.py` is exemplified in the following files:
+- tutorial.ipynb: Tutorial of `epiflux.py` using Jupyter notebook.
+- example.sh: Example run of Epiflux.py using Linux bash script. It calls the `epiflux-terminal.py` file.
 
 Both examples use the information stored in the `data` folder and save the outputs in the `results` folder. The inputs and outputs are described below.
 
