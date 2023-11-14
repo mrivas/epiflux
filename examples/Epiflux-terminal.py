@@ -372,9 +372,9 @@ def summaryTable(Summary ,condition, lbx, ubx, time, status):
 
 
 #################################################################################
-########################             E             ########################
+########################             EPIFLUX             ########################
 #################################################################################
-print('Welcome to PheFlux ! \n')
+print('Welcome to EpiFlux ! \n')
 
 
 def Pheflux(inputFileName, processDir):
