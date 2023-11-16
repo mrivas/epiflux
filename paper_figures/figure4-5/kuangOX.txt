@@ -1,0 +1,1610 @@
+Systematic names	Cluster	Common names																																									
+YFR001W	1	LOC1																																									
+YOR252W	1	TMA16																																									
+YNR025C	1																																										
+YGR095C	1	RRP46																																									
+YNR024W	1	MPP6																																									
+YNL042W	1	BOP3																																									
+YNL244C	1	SUI1																																									
+YBL054W	1	TOD6																																									
+YOR342C	1																																										
+YPL146C	1	NOP53																																									
+YIR026C	1	YVH1																																									
+YKR092C	1	SRP40																																									
+YAL059W	1	ECM1																																									
+YIL019W	1	FAF1																																									
+YIL096C	1																																										
+YBR002C	1	RER2																																									
+YOL125W	1	TRM13																																									
+YLR014C	1	PPR1																																									
+YKR024C	1	DBP7																																									
+YLR017W	1	MEU1																																									
+YPR016C	1	TIF6																																									
+YDL031W	1	DBP10																																									
+YPL226W	1	NEW1																																									
+YBR267W	1	REI1																																									
+YKL021C	1	MAK11																																									
+YNR046W	1	TRM112																																									
+YOR001W	1	RRP6																																									
+YCR047C	1	BUD23																																									
+YNL186W	1	UBP10																																									
+YDR161W	1																																										
+YLR243W	1																																										
+YKL191W	1	DPH2																																									
+YOR078W	1	BUD21																																									
+YBR142W	1	MAK5																																									
+YPR136C	1																																										
+YOR146W	1																																										
+YGR145W	1	ENP2																																									
+YHR170W	1	NMD3																																									
+YPL212C	1	PUS1																																									
+YBR266C	1	SLM6																																									
+YJL098W	1	SAP185																																									
+YOR098C	1	NUP1																																									
+YDR465C	1	RMT2																																									
+YER082C	1	UTP7																																									
+YKR056W	1	TRM2																																									
+YLR397C	1	AFG2																																									
+YGL122C	1	NAB2																																									
+YLR003C	1	CMS1																																									
+YBR247C	1	ENP1																																									
+YOL022C	1	TSR4																																									
+YOR051C	1	ETT1																																									
+YPL126W	1	NAN1																																									
+YOR294W	1	RRS1																																									
+YLR336C	1	SGD1																																									
+YDR087C	1	RRP1																																									
+YDR110W	1	FOB1																																									
+YHR205W	1	SCH9																																									
+YGL120C	1	PRP43																																									
+YDR172W	1	SUP35																																									
+YHR143W-A	1	RPC10																																									
+YDL151C	1	BUD30																																									
+YNL112W	1	DBP2																																									
+YNL112W	1	DBP2																																									
+YHR003C	1																																										
+YML014W	1	TRM9																																									
+YPR137W	1	RRP9																																									
+YKR099W	1	BAS1																																									
+YNL050C	1																																										
+YJL033W	1	HCA4																																									
+YJL069C	1	UTP18																																									
+YOR145C	1	PNO1																																									
+YDL213C	1	NOP6																																									
+YDL036C	1	PUS9																																									
+YJL109C	1	UTP10																																									
+YOL142W	1	RRP40																																									
+YNL221C	1	POP1																																									
+YBL004W	1	UTP20																																									
+YNL308C	1	KRI1																																									
+YOR271C	1	FSF1																																									
+YDL062W	1																																										
+YMR131C	1	RRB1																																									
+YML056C	1	IMD4																																									
+YJR055W	1	HIT1																																									
+YGR245C	1	SDA1																																									
+YPR169W	1	JIP5																																									
+YPR112C	1	MRD1																																									
+YKR072C	1	SIS2																																									
+YDL050C	1																																										
+YLR384C	1	IKI3																																									
+YMR243C	1	ZRC1																																									
+YDR060W	1	MAK21																																									
+YJR002W	1	MPP10																																									
+YDL150W	1	RPC53																																									
+YLR022C	1	SDO1																																									
+YER049W	1	TPA1																																									
+YPL012W	1	RRP12																																									
+YJL010C	1	NOP9																																									
+YOR056C	1	NOB1																																									
+YJL025W	1	RRN7																																									
+YLR130C	1	ZRT2																																									
+YHR052W	1	CIC1																																									
+YMR014W	1	BUD22																																									
+YDR324C	1	UTP4																																									
+YKL181W	1	PRS1																																									
+YFL050C	1	ALR2																																									
+YPL217C	1	BMS1																																									
+YGL111W	1	NSA1																																									
+YMR128W	1	ECM16																																									
+YNL227C	1	JJJ1																																									
+YDR339C	1	FCF1																																									
+YOR341W	1	RPA190																																									
+YHR088W	1	RPF1																																									
+YMR217W	1	GUA1																																									
+YMR239C	1	RNT1																																									
+YGR159C	1	NSR1																																									
+YHR040W	1	BCD1																																									
+YDL051W	1	LHP1																																									
+YLR276C	1	DBP9																																									
+YMR290C	1	HAS1																																									
+YER002W	1	NOP16																																									
+YGR160W	1																																										
+YMR049C	1	ERB1																																									
+YIR012W	1	SQT1																																									
+YNL226W	1																																										
+YIL127C	1	RRT14																																									
+YDR413C	1																																										
+YOL021C	1	DIS3																																									
+YDL063C	1																																										
+YDR398W	1	UTP5																																									
+YDR101C	1	ARX1																																									
+YER006W	1	NUG1																																									
+YJL125C	1	GCD14																																									
+YKR044W	1	UIP5																																									
+YMR269W	1	TMA23																																									
+YNL114C	1																																										
+YGR187C	1	HGH1																																									
+YGR072W	1	UPF3																																									
+YDL043C	1	PRP11																																									
+YNL123W	1	NMA111																																									
+YLR129W	1	DIP2																																									
+YPR143W	1	RRP15																																									
+YKR081C	1	RPF2																																									
+YOL144W	1	NOP8																																									
+YPL177C	1	CUP9																																									
+YOR004W	1	UTP23																																									
+YIL079C	1	AIR1																																									
+YGL211W	1	NCS6																																									
+YPR142C	1																																										
+YDR478W	1	SNM1																																									
+YPL266W	1	DIM1																																									
+YDR165W	1	TRM82																																									
+YML080W	1	DUS1																																									
+YLR244C	1	MAP1																																									
+YHR081W	1	LRP1																																									
+YNL228W	1																																										
+YJL050W	1	MTR4																																									
+YER086W	1	ILV1																																									
+YHR046C	1	INM1																																									
+YCL054W	1	SPB1																																									
+YNL232W	1	CSL4																																									
+YNL151C	1	RPC31																																									
+YML113W	1	DAT1																																									
+YPL043W	1	NOP4																																									
+YBR239C	1	ERT1																																									
+YNL113W	1	RPC19																																									
+YNL256W	1	FOL1																																									
+YLL008W	1	DRS1																																									
+YHR197W	1	RIX1																																									
+YKL143W	1	LTV1																																									
+YGR103W	1	NOP7																																									
+YPL044C	1																																										
+YBR061C	1	TRM7																																									
+YDL153C	1	SAS10																																									
+YOR116C	1	RPO31																																									
+YGR083C	1	GCD2																																									
+YMR229C	1	RRP5																																									
+YJR070C	1	LIA1																																									
+YNL061W	1	NOP2																																									
+YPL093W	1	NOG1																																									
+YGR283C	1																																										
+YOL124C	1	TRM11																																									
+YNL062C	1	GCD10																																									
+YDL167C	1	NRP1																																									
+YMR310C	1																																										
+YFL002C	1	SPB4																																									
+YDR083W	1	RRP8																																									
+YDR212W	1	TCP1																																									
+YGR265W	1																																										
+YBR154C	1	RPB5																																									
+YOR046C	1	DBP5																																									
+YNL029C	1	KTR5																																									
+YGR001C	1																																										
+YLR009W	1	RLP24																																									
+YDR153C	1	ENT5																																									
+YBR271W	1																																										
+YCR072C	1	RSA4																																									
+YER127W	1	LCP5																																									
+YNL132W	1	KRE33																																									
+YDR364C	1	CDC40																																									
+YEL026W	1	SNU13																																									
+YLR221C	1	RSA3																																									
+YNL002C	1	RLP7																																									
+YNR038W	1	DBP6																																									
+YML093W	1	UTP14																																									
+YIL091C	1	UTP25																																									
+YDR184C	1	ATC1																																									
+YDL060W	1	TSR1																																									
+YNL075W	1	IMP4																																									
+YKR036C	1	CAF4																																									
+YBL039C	1	URA7																																									
+YCL059C	1	KRR1																																									
+YDR280W	1	RRP45																																									
+YER110C	1	KAP123																																									
+YPL211W	1	NIP7																																									
+YDR198C	1	RKM2																																									
+YNL153C	1	GIM3																																									
+YFL023W	1	BUD27																																									
+YCL031C	1	RRP7																																									
+YGL099W	1	LSG1																																									
+YLR057W	1																																										
+YOR207C	1	RET1																																									
+YCR087W	1																																										
+YCL058C	1	FYV5																																									
+YKL172W	1	EBP2																																									
+YLR287C	1																																										
+YDL152W	1																																										
+YLR068W	1	FYV7																																									
+YDR496C	1	PUF6																																									
+YER137C	1																																										
+YFL021W	1	GAT1																																									
+YGL029W	1	CGR1																																									
+YDL201W	1	TRM8																																									
+YNL022C	1																																										
+YNL119W	1	NCS2																																									
+YNL175C	1	NOP13																																									
+YNL174W	1																																										
+YJR072C	1	NPA3																																									
+YPL239W	1	YAR1																																									
+YBL024W	1	NCL1																																									
+YHR085W	1	IPI1																																									
+YJR063W	1	RPA12																																									
+YMR259C	1																																										
+YOR168W	1	GLN4																																									
+YHR066W	1	SSF1																																									
+YOR243C	1	PUS7																																									
+YNR003C	1	RPC34																																									
+YOR210W	1	RPB10																																									
+YNL120C	1																																										
+YPR187W	1	RPO26																																									
+YLR215C	1	CDC123																																									
+YPR010C	1	RPA135																																									
+YOL061W	1	PRS5																																									
+YDR119W	1	VBA4																																									
+YJR071W	1																																										
+YOR047C	1	STD1																																									
+YNL110C	1	NOP15																																									
+YKL082C	1	RRP14																																									
+YPR144C	1	NOC4																																									
+YOL140W	1	ARG8																																									
+YOR206W	1	NOC2																																									
+YLR196W	1	PWP1																																									
+YJR041C	1	URB2																																									
+YLL034C	1	RIX7																																									
+YPL204W	1	HRR25																																									
+YOR307C	1	SLY41																																									
+YMR312W	1	ELP6																																									
+YCR016W	1																																										
+YLR449W	1	FPR4																																									
+YLR409C	1	UTP21																																									
+YGR078C	1	PAC10																																									
+YDR120C	1	TRM1																																									
+YHL011C	1	PRS3																																									
+YOL079W	1																																										
+YDL148C	1	NOP14																																									
+YDR257C	1	RKM4																																									
+YML105C	1	SEC65																																									
+YNL299W	1	TRF5																																									
+YKR060W	1	UTP30																																									
+YPL183C	1	RTT10																																									
+YOR340C	1	RPA43																																									
+YJL191W	1	RPS14B																																									
+YJR014W	1	TMA22																																									
+YPL157W	1	TGS1																																									
+YDL208W	1	NHP2																																									
+YPR071W	1																																										
+YNL248C	1	RPA49																																									
+YNL182C	1	IPI3																																									
+YOR272W	1	YTM1																																									
+YAL036C	1	RBG1																																									
+YLR401C	1	DUS3																																									
+YGL078C	1	DBP3																																									
+YOR287C	1	RRP36																																									
+YCR063W	1	BUD31																																									
+YOR091W	1	TMA46																																									
+YNR053C	1	NOG2																																									
+YNR053C	1	NOG2																																									
+YKL083W	1																																										
+YDR156W	1	RPA14																																									
+YNL023C	1	FAP1																																									
+YKL009W	1	MRT4																																									
+YCR057C	1	PWP2																																									
+YDR037W	1	KRS1																																									
+YJR097W	1	JJJ3																																									
+YDL112W	1	TRM3																																									
+YJR016C	1	ILV3																																									
+YML018C	1																																										
+YJR007W	1	SUI2																																									
+YDR021W	1	FAL1																																									
+YBR182C	1	SMP1																																									
+YER126C	1	NSA2																																									
+YPR048W	1	TAH18																																									
+YNL282W	1	POP3																																									
+YAL025C	1	MAK16																																									
+YEL048C	1	TCA17																																									
+YDL014W	1	NOP1																																									
+YEL036C	1	ANP1																																									
+YPL086C	1	ELP3																																									
+YGL246C	1	RAI1																																									
+YLR002C	1	NOC3																																									
+YIL020C	1	HIS6																																									
+YOL010W	1	RCL1																																									
+YPL108W	1																																										
+YHR148W	1	IMP3																																									
+YPR110C	1	RPC40																																									
+YOL092W	1																																										
+YLL011W	1	SOF1																																									
+YLR434C	1																																										
+YLR222C	1	UTP13																																									
+YDR299W	1	BFR2																																									
+YLR333C	1	RPS25B																																									
+YPL101W	1	ELP4																																									
+YOL093W	1	TRM10																																									
+YOL080C	1	REX4																																									
+YBR227C	1	MCX1																																									
+YOL041C	1	NOP12																																									
+YOL077C	1	BRX1																																									
+YNR054C	1	ESF2																																									
+YLL035W	1	GRC3																																									
+YDR321W	1	ASP1																																									
+YLR051C	1	FCF2																																									
+YOR048C	1	RAT1																																									
+YMR266W	1	RSN1																																									
+YKL099C	1	UTP11																																									
+YIL092W	1																																										
+YIL104C	1	SHQ1																																									
+YJL148W	1	RPA34																																									
+YPL229W	1																																										
+YDR361C	1	BCP1																																									
+YBL028C	1																																										
+YLR186W	1	EMG1																																									
+YMR093W	1	UTP15																																									
+YGR173W	1	RBG2																																									
+YGR128C	1	UTP8																																									
+YLL037W	1																																										
+YMR193C-A	1																																										
+YJL087C	1	TRL1																																									
+YJL122W	1	ALB1																																									
+YHR206W	1	SKN7																																									
+YHR196W	1	UTP9																																									
+YKR043C	1	SHB17																																									
+YPL169C	1	MEX67																																									
+YJL193W	1																																										
+YHL029C	1	OCA5																																									
+YNL207W	1	RIO2																																									
+YLR318W	1	EST2																																									
+YDR020C	1	DAS2																																									
+YJL011C	1	RPC17																																									
+YLR400W	1																																										
+YJR119C	1	JHD2																																									
+YML082W	1																																										
+YGR081C	1	SLX9																																									
+YNR012W	1	URK1																																									
+YDR045C	1	RPC11																																									
+YOR140W	1	SFL1																																									
+YBR187W	1	GDT1																																									
+YEL019C	1	MMS21																																									
+YLR435W	1	TSR2																																									
+YHL013C	1	OTU2																																									
+YNL316C	1	PHA2																																									
+YBR017C	1	KAP104																																									
+YAR002W	1	NUP60																																									
+YGR158C	1	MTR3																																									
+YDR449C	1	UTP6																																									
+YNL313C	1	EMW1																																									
+YEL032W	1	MCM3																																									
+YGR251W	1																																										
+YDL121C	1																																										
+YMR123W	1	PKR1																																									
+YOR095C	1	RKI1																																									
+YOR203W	1																																										
+YDR249C	1																																										
+YDR312W	1	SSF2																																									
+YJL162C	1	JJJ2																																									
+YLR451W	1	LEU3																																									
+YML116W	1	ATR1																																									
+YOL136C	1	PFK27																																									
+YBR175W	1	SWD3																																									
+YPR161C	1	SGV1																																									
+YLR412W	1	BER1																																									
+YPL175W	1	SPT14																																									
+YKR026C	1	GCN3																																									
+YOR370C	1	MRS6																																									
+YDR213W	1	UPC2																																									
+YML099C	1	ARG81																																									
+YLR143W	1																																										
+YOR311C	1	DGK1																																									
+YBR104W	1	YMC2																																									
+YBR248C	1	HIS7																																									
+YBR030W	1	RKM3																																									
+YBR188C	1	NTC20																																									
+YER029C	1	SMB1																																									
+YJR050W	1	ISY1																																									
+YBR244W	1	GPX2																																									
+YPL051W	1	ARL3																																									
+YKL071W	1																																										
+YPR094W	1	RDS3																																									
+YBR208C	1	DUR1,2																																									
+YPL037C	1	EGD1																																									
+YPR086W	1	SUA7																																									
+YPL268W	1	PLC1																																									
+YDR139C	1	RUB1																																									
+YPL069C	1	BTS1																																									
+YMR059W	1	SEN15																																									
+YCL011C	1	GBP2																																									
+YLL048C	1	YBT1																																									
+YCL050C	1	APA1																																									
+YPL232W	1	SSO1																																									
+YDL108W	1	KIN28																																									
+YDL013W	1	SLX5																																									
+YDR459C	1	PFA5																																									
+YDR140W	1	MTQ2																																									
+YOR066W	1	MSA1																																									
+YNL261W	1	ORC5																																									
+YPL046C	1	ELC1																																									
+YML062C	1	MFT1																																									
+YMR200W	1	ROT1																																									
+YPR070W	1	MED1																																									
+YLR274W	1	MCM5																																									
+YKL095W	1	YJU2																																									
+YNL224C	1	SQS1																																									
+YEL037C	1	RAD23																																									
+YDR461W	1	MFA1																																									
+YDR461W	1	MFA1																																									
+YGL079W	1	KXD1																																									
+YOL054W	1	PSH1																																									
+YCR026C	1	NPP1																																									
+YIL161W	1																																										
+YDR191W	1	HST4																																									
+YNL158W	1	PGA1																																									
+YOR202W	1	HIS3																																									
+YOR151C	1	RPB2																																									
+YPR058W	1	YMC1																																									
+YPL042C	1	SSN3																																									
+YGL090W	1	LIF1																																									
+YDR310C	1	SUM1																																									
+YDL177C	1																																										
+YLR138W	1	NHA1																																									
+YMR227C	1	TAF7																																									
+YOR308C	1	SNU66																																									
+YJL071W	1	ARG2																																									
+YBL036C	1																																										
+YBR249C	1	ARO4																																									
+YPR040W	1	TIP41																																									
+YDR081C	1	PDC2																																									
+YJL041W	1	NSP1																																									
+YOR304W	1	ISW2																																									
+YGR091W	1	PRP31																																									
+YDL042C	1	SIR2																																									
+YNL326C	1	PFA3																																									
+YLR321C	1	SFH1																																									
+YER013W	1	PRP22																																									
+YLR418C	1	CDC73																																									
+YNL238W	1	KEX2																																									
+YER060W	1	FCY21																																									
+YPL122C	1	TFB2																																									
+YDL209C	1	CWC2																																									
+YKL079W	1	SMY1																																									
+YMR153W	1	NUP53																																									
+YLR142W	1	PUT1																																									
+YKR062W	1	TFA2																																									
+YEL017C-A	1	PMP2																																									
+YJL127C	1	SPT10																																									
+YDR206W	1	EBS1																																									
+YCL002C	1																																										
+YBR025C	1	OLA1																																									
+YNL076W	1	MKS1																																									
+YMR234W	1	RNH1																																									
+YOL119C	1	MCH4																																									
+YOR304C-A	1																																										
+YPL055C	1	LGE1																																									
+YLR443W	1	ECM7																																									
+YML015C	1	TAF11																																									
+YJL101C	1	GSH1																																									
+YOR166C	1	SWT1																																									
+YPR162C	1	ORC4																																									
+YOR269W	1	PAC1																																									
+YLR052W	1	IES3																																									
+YML023C	1	NSE5																																									
+YBL103C	1	RTG3																																									
+YJR032W	1	CPR7																																									
+YNR029C	1																																										
+YJL024C	1	APS3																																									
+YMR138W	1	CIN4																																									
+YCR053W	1	THR4																																									
+YKL072W	1	STB6																																									
+YDR416W	1	SYF1																																									
+YJL139C	1	YUR1																																									
+YDR065W	1	RRG1																																									
+YKL139W	1	CTK1																																									
+YOR179C	1	SYC1																																									
+YPR139C	1	VPS66																																									
+YCR020W-B	1	HTL1																																									
+YLR316C	1	TAD3																																									
+YOL135C	1	MED7																																									
+YML046W	1	PRP39																																									
+YOR323C	1	PRO2																																									
+YPL047W	1	SGF11																																									
+YDL116W	1	NUP84																																									
+YER090W	1	TRP2																																									
+YOR043W	1	WHI2																																									
+YMR214W	1	SCJ1																																									
+YKL154W	1	SRP102																																									
+YOR212W	1	STE4																																									
+YBR153W	1	RIB7																																									
+YDR533C	1	HSP31																																									
+YOR332W	1	VMA4																																									
+YOR344C	1	TYE7																																									
+YMR182C	1	RGM1																																									
+YEL038W	1	UTR4																																									
+YOR339C	1	UBC11																																									
+YLR173W	1																																										
+YOR032C	1	HMS1																																									
+YNL281W	1	HCH1																																									
+YPR192W	1	AQY1																																									
+YPR138C	1	MEP3																																									
+YMR011W	1	HXT2																																									
+YDL057W	1																																										
+YOL047C	1																																										
+YKR039W	1	GAP1																																									
+YMR173W-A	1																																										
+YER066W	1	RRT13																																									
+YER066W	1	RRT13																																									
+YML100W-A	1																																										
+YJL212C	1	OPT1																																									
+YNL065W	1	AQR1																																									
+YDR222W	1																																										
+YOR119C	1	RIO1																																									
+YIL114C	1	POR2																																									
+YDR006C	1	SOK1																																									
+YGR175C	1	ERG1																																									
+YBL093C	1	ROX3																																									
+YDL087C	1	LUC7																																									
+YER169W	1	RPH1																																									
+YDR207C	1	UME6																																									
+YNL250W	1	RAD50																																									
+YGR087C	1	PDC6																																									
+YFR032C	1	RRT5																																									
+YPR036W	1	VMA13																																									
+YBR065C	1	ECM2																																									
+YCL036W	1	GFD2																																									
+YOR270C	1	VPH1																																									
+YNL240C	1	NAR1																																									
+YNL111C	1	CYB5																																									
+YMR069W	1	NAT4																																									
+YML121W	1	GTR1																																									
+YPL159C	1	PET20																																									
+YCR020C-A	1	MAK31																																									
+YOR154W	1	SLP1																																									
+YLR015W	1	BRE2																																									
+YOL066C	1	RIB2																																									
+YMR080C	1	NAM7																																									
+YDR463W	1	STP1																																									
+YBR063C	1																																										
+YNL245C	1	CWC25																																									
+YAL038W	1	CDC19																																									
+YFR023W	1	PES4																																									
+YHR007C	1	ERG11																																									
+YBR257W	1	POP4																																									
+YJR046W	1	TAH11																																									
+YDR243C	1	PRP28																																									
+YMR268C	1	PRP24																																									
+YER128W	1	VFA1																																									
+YBR008C	1	FLR1																																									
+YDL109C	1																																										
+YPR116W	1	RRG8																																									
+YPL137C	1	GIP3																																									
+YKR041W	1																																										
+YML005W	1	TRM12																																									
+YLR024C	1	UBR2																																									
+YGL184C	1	STR3																																									
+YOL059W	1	GPD2																																									
+YLR323C	1	CWC24																																									
+YLR116W	1	MSL5																																									
+YIL150C	1	MCM10																																									
+YNR063W	1																																										
+YLL018C-A	1	COX19																																									
+YGR129W	1	SYF2																																									
+YKR063C	1	LAS1																																									
+YLR347C	1	KAP95																																									
+YGL240W	1	DOC1																																									
+YGL144C	1	ROG1																																									
+YPR168W	1	NUT2																																									
+YNL128W	1	TEP1																																									
+YCR054C	1	CTR86																																									
+YER038C	1	KRE29																																									
+YDL048C	1	STP4																																									
+YGR003W	1	CUL3																																									
+YGL133W	1	ITC1																																									
+YNL254C	1	RTC4																																									
+YGR097W	1	ASK10																																									
+YDR033W	1	MRH1																																									
+YPL106C	1	SSE1																																									
+YMR055C	1	BUB2																																									
+YDR420W	1	HKR1																																									
+YDR151C	1	CTH1																																									
+YGR211W	1	ZPR1																																									
+YBR197C	1																																										
+YHR134W	1	WSS1																																									
+YOR371C	1	GPB1																																									
+YGR096W	1	TPC1																																									
+YNL064C	1	YDJ1																																									
+YOR338W	1																																										
+YJR047C	1	ANB1																																									
+YMR244W	1																																										
+YGL255W	1	ZRT1																																									
+YHR126C	1	ANS1																																									
+YJL116C	1	NCA3																																									
+YNL191W	1	DUG3																																									
+YBR114W	1	RAD16																																									
+YDL037C	1	BSC1																																									
+YHR092C	1	HXT4																																									
+YDL039C	1	PRM7																																									
+YNL124W	1	NAF1																																									
+YBL071C	1																																										
+YOR306C	1	MCH5																																									
+YNL234W	1																																										
+YER062C	1	HOR2																																									
+YOR360C	1	PDE2																																									
+YBR141C	1																																										
+YLR074C	1	BUD20																																									
+YGR280C	1	PXR1																																									
+YML108W	1																																										
+YBR242W	1																																										
+YNL187W	1	SWT21																																									
+YML130C	1	ERO1																																									
+YNL201C	1	PSY2																																									
+YOL130W	1	ALR1																																									
+YBR105C	1	VID24																																									
+YLR223C	1	IFH1																																									
+YOR012W	1																																										
+YOR012W	1																																										
+YDR345C	1	HXT3																																									
+YGL215W	1	CLG1																																									
+YKL027W	1																																										
+YHR069C	1	RRP4																																									
+YDR326C	1	YSP2																																									
+YBR238C	1																																										
+YPL038W	1	MET31																																									
+YGR079W	1																																										
+YBL069W	1	AST1																																									
+YBL069W	1	AST1																																									
+YLR237W	1	THI7																																									
+YOR013W	1	IRC11																																									
+YOR160W	1	MTR10																																									
+YKL030W	1																																										
+YBL014C	1	RRN6																																									
+YCR035C	1	RRP43																																									
+YHR169W	1	DBP8																																									
+YDL111C	1	RRP42																																									
+YOR006C	1	TSR3																																									
+YNL141W	1	AAH1																																									
+YMR296C	1	LCB1																																									
+YLR016C	1	PML1																																									
+YIL130W	1	ASG1																																									
+YER085C	1																																										
+YNL163C	1	RIA1																																									
+YLR107W	1	REX3																																									
+YLL038C	1	ENT4																																									
+YNR027W	1	BUD17																																									
+YDR464W	1	SPP41																																									
+YDL015C	1	TSC13																																									
+YGR259C	1																																										
+YER151C	1	UBP3																																									
+YNR055C	1	HOL1																																									
+YBR155W	1	CNS1																																									
+YCL037C	1	SRO9																																									
+YHL026C	1																																										
+YHR070W	1	TRM5																																									
+YKL078W	1	DHR2																																									
+YPL068C	1																																										
+YBR069C	1	TAT1																																									
+YER036C	1	ARB1																																									
+YML043C	1	RRN11																																									
+YKL029C	1	MAE1																																									
+YDR075W	1	PPH3																																									
+YNR026C	1	SEC12																																									
+YDR526C	1																																										
+YBR034C	1	HMT1																																									
+YMR042W	1	ARG80																																									
+YKR025W	1	RPC37																																									
+YJL198W	1	PHO90																																									
+YOR204W	1	DED1																																									
+YGR190C	1																																										
+YKR071C	1	DRE2																																									
+YMR038C	1	CCS1																																									
+YDR527W	1	RBA50																																									
+YOR359W	1	VTS1																																									
+YPR065W	1	ROX1																																									
+YLR018C	1	POM34																																									
+YBL042C	1	FUI1																																									
+YLR073C	1	RFU1																																									
+YGL177W	1																																										
+YDR508C	1	GNP1																																									
+YBR085W	1	AAC3																																									
+YML125C	1	PGA3																																									
+YLL010C	1	PSR1																																									
+YPR009W	1	SUT2																																									
+YLR063W	1																																										
+YFR036W	1	CDC26																																									
+YPL105C	1	SYH1																																									
+YDR346C	1	SVF1																																									
+YNL268W	1	LYP1																																									
+YHR032W	1	ERC1																																									
+YGR068C	1	ART5																																									
+YNL095C	1																																										
+YLR407W	1																																										
+YHR201C	1	PPX1																																									
+YER073W	1	ALD5																																									
+YER114C	1	BOI2																																									
+YOL141W	1	PPM2																																									
+YOR281C	1	PLP2																																									
+YBL070C	1																																										
+YML006C	1	GIS4																																									
+YOR337W	1	TEA1																																									
+YGR035C	1																																										
+YLR278C	1																																										
+YNL068C	1	FKH2																																									
+YGR260W	1	TNA1																																									
+YOR283W	1																																										
+YJL038C	1	LOH1																																									
+YIL053W	1	RHR2																																									
+YMR216C	1	SKY1																																									
+YPL030W	1	TRM44																																									
+YOR282W	1																																										
+YJR111C	1																																										
+YJL145W	1	SFH5																																									
+YPL202C	1	AFT2																																									
+YGR055W	1	MUP1																																									
+YNL190W	1																																										
+YDR509W	1																																										
+YLR403W	1	SFP1																																									
+YNR013C	1	PHO91																																									
+YGR036C	1	CAX4																																									
+YLR226W	1	BUR2																																									
+YPL189W	1	GUP2																																									
+YNL024C	1																																										
+YOL045W	1	PSK2																																									
+YKL068W	1	NUP100																																									
+YPR153W	1																																										
+YLL004W	1	ORC3																																									
+YLR224W	1																																										
+YOR322C	1	LDB19																																									
+YOR101W	1	RAS1																																									
+YAL053W	1	FLC2																																									
+YNL108C	1																																										
+YNL109W	1																																										
+YPL246C	1	RBD2																																									
+YHR031C	1	RRM3																																									
+YKR045C	1																																										
+YML035C	1	AMD1																																									
+YLR245C	1	CDD1																																									
+YLR462W	2																																										
+YPL111W	2	CAR1																																									
+YPR121W	2	THI22																																									
+YDR038C	2	ENA5																																									
+YDR038C	2	ENA5																																									
+YIR032C	2	DAL3																																									
+YBL029W	2																																										
+YLR248W	2	RCK2																																									
+YPL265W	2	DIP5																																									
+YGL131C	2	SNT2																																									
+YDR460W	2	TFB3																																									
+YLR086W	2	SMC4																																									
+YLR438C-A	2	LSM3																																									
+YJR152W	2	DAL5																																									
+YGR240C	2	PFK1																																									
+YKL019W	2	RAM2																																									
+YDR391C	2																																										
+YMR202W	2	ERG2																																									
+YLR257W	2																																										
+YDL210W	2	UGA4																																									
+YIR027C	2	DAL1																																									
+YOR278W	2	HEM4																																									
+YKR034W	2	DAL80																																									
+YAL039C	2	CYC3																																									
+YJR147W	2	HMS2																																									
+YDR167W	2	TAF10																																									
+YBR092C	2	PHO3																																									
+YPL058C	2	PDR12																																									
+YGL119W	2	COQ8																																									
+YER087C-A	2																																										
+YCL047C	2	POF1																																									
+YJR079W	2																																										
+YJR079W	2																																										
+YLL067C	2																																										
+YLL067C	2																																										
+YLL067C	2																																										
+YLL067C	2																																										
+YML133C	2																																										
+YAL020C	2	ATS1																																									
+YIL164C	2	NIT1																																									
+YJL115W	2	ASF1																																									
+YMR075W	2	RCO1																																									
+YAR066W	2																																										
+YLR032W	2	RAD5																																									
+YOR127W	2	RGA1																																									
+YOR217W	2	RFC1																																									
+YPR088C	2	SRP54																																									
+YGR262C	2	BUD32																																									
+YER174C	2	GRX4																																									
+YDL156W	2																																										
+YPR120C	2	CLB5																																									
+YAL044C	2	GCV3																																									
+YPL023C	2	MET12																																									
+YBR160W	2	CDC28																																									
+YKR077W	2	MSA2																																									
+YMR013C	2	SEC59																																									
+YLL055W	2	YCT1																																									
+YCL016C	2	DCC1																																									
+YDL092W	2	SRP14																																									
+YNL039W	2	BDP1																																									
+YLR210W	2	CLB4																																									
+YDR014W	2	RAD61																																									
+YOR110W	2	TFC7																																									
+YAR014C	2	BUD14																																									
+YJL072C	2	PSF2																																									
+YMR263W	2	SAP30																																									
+YPL144W	2	POC4																																									
+YOR216C	2	RUD3																																									
+YLR192C	2	HCR1																																									
+YFR038W	2	IRC5																																									
+YML067C	2	ERV41																																									
+YDL080C	2	THI3																																									
+YNL035C	2																																										
+YDL059C	2	RAD59																																									
+YML127W	2	RSC9																																									
+YMR096W	2	SNZ1																																									
+YOR144C	2	ELG1																																									
+YJR067C	2	YAE1																																									
+YJR078W	2	BNA2																																									
+YJL203W	2	PRP21																																									
+YGL172W	2	NUP49																																									
+YIR017C	2	MET28																																									
+YBL089W	2	AVT5																																									
+YML011C	2	RAD33																																									
+YNL199C	2	GCR2																																									
+YDR253C	2	MET32																																									
+YBL057C	2	PTH2																																									
+YMR095C	2	SNO1																																									
+YBR087W	2	RFC5																																									
+YOR238W	2																																										
+YAL022C	2	FUN26																																									
+YFR005C	2	SAD1																																									
+YBR281C	2	DUG2																																									
+YML021C	2	UNG1																																									
+YJL192C	2	SOP4																																									
+YNL233W	2	BNI4																																									
+YCR052W	2	RSC6																																									
+YER118C	2	SHO1																																									
+YPR018W	2	RLF2																																									
+YGR040W	2	KSS1																																									
+YNL290W	2	RFC3																																									
+YEL018W	2	EAF5																																									
+YMR005W	2	TAF4																																									
+YGL098W	2	USE1																																									
+YBR015C	2	MNN2																																									
+YDR117C	2	TMA64																																									
+YML071C	2	COG8																																									
+YLR105C	2	SEN2																																									
+YKR038C	2	KAE1																																									
+YDR235W	2	PRP42																																									
+YKL054C	2	DEF1																																									
+YER089C	2	PTC2																																									
+YLL027W	2	ISA1																																									
+YDR410C	2	STE14																																									
+YKR084C	2	HBS1																																									
+YPL181W	2	CTI6																																									
+YKL073W	2	LHS1																																									
+YOR279C	2	RFM1																																									
+YBL026W	2	LSM2																																									
+YBL026W	2	LSM2																																									
+YBL026W	2	LSM2																																									
+YEL006W	2	YEA6																																									
+YER113C	2	TMN3																																									
+YEL053C	2	MAK10																																									
+YDL180W	2																																										
+YER183C	2	FAU1																																									
+YHR142W	2	CHS7																																									
+YBR245C	2	ISW1																																									
+YEL022W	2	GEA2																																									
+YOR115C	2	TRS33																																									
+YHR026W	2	VMA16																																									
+YPL213W	2	LEA1																																									
+YGL163C	2	RAD54																																									
+YDL098C	2	SNU23																																									
+YDR295C	2	HDA2																																									
+YOR067C	2	ALG8																																									
+YGL043W	2	DST1																																									
+YKL077W	2																																										
+YDR090C	2																																										
+YDR415C	2																																										
+YOR130C	2	ORT1																																									
+YNL277W	2	MET2																																									
+YML055W	2	SPC2																																									
+YDR240C	2	SNU56																																									
+YLR099C	2	ICT1																																									
+YBR080C	2	SEC18																																									
+YJR154W	2																																										
+YLR398C	2	SKI2																																									
+YNL311C	2	SKP2																																									
+YJR155W	2	AAD10																																									
+YKL159C	2	RCN1																																									
+YBR066C	2	NRG2																																									
+YJL035C	2	TAD2																																									
+YNR058W	2	BIO3																																									
+YDR448W	2	ADA2																																									
+YDR066C	2	RTR2																																									
+YFL047W	2	RGD2																																									
+YNR048W	2																																										
+YNL101W	2	AVT4																																									
+YPL083C	2	SEN54																																									
+YGL174W	2	BUD13																																									
+YLR229C	2	CDC42																																									
+YJL012C	2	VTC4																																									
+YGL186C	2	TPN1																																									
+YHR045W	2																																										
+YKL178C	2	STE3																																									
+YPL088W	2																																										
+YOL055C	2	THI20																																									
+YPR183W	2	DPM1																																									
+YDR352W	2																																										
+YBL020W	2	RFT1																																									
+YCL030C	2	HIS4																																									
+YBR211C	2	AME1																																									
+YLR056W	2	ERG3																																									
+YPL187W	2	MF(ALPHA)1																																									
+YJR015W	2																																										
+YDR281C	2	PHM6																																									
+YDR439W	2	LRS4																																									
+YDR541C	2																																										
+YDR135C	2	YCF1																																									
+YHR182W	2																																										
+YAL029C	2	MYO4																																									
+YLR106C	2	MDN1																																									
+YGL008C	2	PMA1																																									
+YKR080W	2	MTD1																																									
+YGL178W	2	MPT5																																									
+YEL021W	2	URA3																																									
+YIL118W	2	RHO3																																									
+YGR155W	2	CYS4																																									
+YDR002W	2	YRB1																																									
+YML056C	2	IMD4																																									
+YKL144C	2	RPC25																																									
+YER165W	2	PAB1																																									
+YGR191W	2	HIP1																																									
+YKR048C	2	NAP1																																									
+YJR132W	2	NMD5																																									
+YBL055C	2																																										
+YHR179W	2	OYE2																																									
+YPL237W	2	SUI3																																									
+YIL145C	2	PAN6																																									
+YHR064C	2	SSZ1																																									
+YMR189W	2	GCV2																																									
+YPL238C	2																																										
+YHR049C-A	2																																										
+YML022W	2	APT1																																									
+YJL138C	2	TIF2																																									
+YHL016C	2	DUR3																																									
+YDL122W	2	UBP1																																									
+YHR128W	2	FUR1																																									
+YDR019C	2	GCV1																																									
+YDR412W	2	RRP17																																									
+YHR049W	2	FSH1																																									
+YOR225W	2																																										
+YAL040C	2	CLN3																																									
+YOR021C	2																																										
+YCR087C-A	2																																										
+YJL076W	2	NET1																																									
+YNR018W	2	AIM38																																									
+YMR308C	2	PSE1																																									
+YBR084W	2	MIS1																																									
+YHR089C	2	GAR1																																									
+YDR399W	2	HPT1																																									
+YER132C	2	PMD1																																									
+YGR123C	2	PPT1																																									
+YDR483W	2	KRE2																																									
+YDR232W	2	HEM1																																									
+YGR200C	2	ELP2																																									
+YKL014C	2	URB1																																									
+YKR082W	2	NUP133																																									
+YNL001W	2	DOM34																																									
+YGR054W	2																																										
+YLR198C	2																																										
+YGL171W	2	ROK1																																									
+YLR197W	2	NOP56																																									
+YKL205W	2	LOS1																																									
+YAL035W	2	FUN12																																									
+YDL166C	2	FAP7																																									
+YPL160W	2	CDC60																																									
+YDR091C	2	RLI1																																									
+YKL216W	2	URA1																																									
+YOR159C	2	SME1																																									
+YKL024C	2	URA6																																									
+YFL001W	2	DEG1																																									
+YDR428C	2	BNA7																																									
+YLL018C	2	DPS1																																									
+YNL292W	2	PUS4																																									
+YGR093W	2																																										
+YGR090W	2	UTP22																																									
+YDR266C	2																																										
+YER025W	2	GCD11																																									
+YKR079C	2	TRZ1																																									
+YBL081W	2																																										
+YDR395W	2	SXM1																																									
+YIL165C	2																																										
+YOL097C	2	WRS1																																									
+YGL169W	2	SUA5																																									
+YHL007C	2	STE20																																									
+YGR162W	2	TIF4631																																									
+YGL256W	2	ADH4																																									
+YIL103W	2	DPH1																																									
+YDR514C	2																																										
+YNL142W	2	MEP2																																									
+YBR261C	2	TAE1																																									
+YDR211W	2	GCD6																																									
+YOR310C	2	NOP58																																									
+YHR025W	2	THR1																																									
+YKL114C	2	APN1																																									
+YMR146C	2	TIF34																																									
+YHR062C	2	RPP1																																									
+YOR309C	2																																										
+YOR309C	2																																										
+YOR309C	2																																										
+YBR291C	2	CTP1																																									
+YOR335C	2	ALA1																																									
+YER156C	2																																										
+YMR309C	2	NIP1																																									
+YEL055C	2	POL5																																									
+YER061C	2	CEM1																																									
+YLR175W	2	CBF5																																									
+YMR247C	2	RKR1																																									
+YOR361C	2	PRT1																																									
+YCR059C	2	YIH1																																									
+YOR226C	2	ISU2																																									
+YGR264C	2	MES1																																									
+YIR028W	2	DAL4																																									
+YBR021W	2	FUR4																																									
+YMR283C	2	RIT1																																									
+YLR058C	2	SHM2																																									
+YML096W	2																																										
+YDR432W	2	NPL3																																									
+YDR432W	2	NPL3																																									
+YDR433W	2																																										
+YGR061C	2	ADE6																																									
+YHR068W	2	DYS1																																									
+YAL019W	2	FUN30																																									
+YGR125W	2																																										
+YBR079C	2	RPG1																																									
+YGR285C	2	ZUO1																																									
+YLR293C	2	GSP1																																									
+YEL063C	2	CAN1																																									
+YLR249W	2	YEF3																																									
+YIL110W	2	HPM1																																									
+YLR172C	2	DPH5																																									
+YPR041W	2	TIF5																																									
+YLR291C	2	GCD7																																									
+YOL098C	2																																										
+YKL056C	2	TMA19																																									
+YFR009W	2	GCN20																																									
+YDR217C	2	RAD9																																									
+YMR079W	2	SEC14																																									
+YJR124C	2																																										
+YER045C	2	ACA1																																									
+YPR190C	2	RPC82																																									
+YBR074W	2																																										
+YER056C	2	FCY2																																									
+YER056C	2	FCY2																																									
+YDL228C	2																																										
+YHR065C	2	RRP3																																									
+YLR375W	2	STP3																																									
+YBL068W	2	PRS4																																									
+YLR420W	2	URA4																																									
+YKL166C	2	TPK3																																									
+YBR004C	2	GPI18																																									
+YHL039W	2	EFM1																																									
+YHR204W	2	MNL1																																									
+YLL012W	2	YEH1																																									
+YGR094W	2	VAS1																																									
+YAL012W	2	CYS3																																									
+YIR031C	2	DAL7																																									
+YIR029W	2	DAL2																																									
+YML074C	2	FPR3																																									
+YHR072W	2	ERG7																																									
+YLR180W	2	SAM1																																									
+YLR180W	2	SAM1																																									
+YER158C	2																																										
+YEL043W	2																																										
+YJL197W	2	UBP12																																									
+YJL129C	2	TRK1																																									
+YLL036C	2	PRP19																																									
+YPR186C	2	PZF1																																									
+YBR031W	2	RPL4A																																									
+YBR031W	2	RPL4A																																									
+YOL078W	2	AVO1																																									
+YAL058W	2	CNE1																																									
+YMR187C	2																																										
+YJL014W	2	CCT3																																									
+YMR300C	2	ADE4																																									
+YFL022C	2	FRS2																																									
+YJR129C	2																																										
+YHR208W	2	BAT1																																									
+YER064C	2																																										
+YOR274W	2	MOD5																																									
+YCR037C	2	PHO87																																									
+YDR349C	2	YPS7																																									
+YGL105W	2	ARC1																																									
+YBL076C	2	ILS1																																									
+YEL029C	2	BUD16																																									
+YKL120W	2	OAC1																																									
+YLR432W	2	IMD3																																									
+YEL017C-A	2	PMP2																																									
+YDR049W	2	VMS1																																									
+YGR210C	2																																										
+YPR189W	2	SKI3																																									
+YNL247W	2																																										
+YLR200W	2	YKE2																																									
+YBR106W	2	PHO88																																									
+YOR108W	2	LEU9																																									
+YJL080C	2	SCP160																																									
+YER072W	2	VTC1																																									
+YIL128W	2	MET18																																									
+YBR060C	2	ORC2																																									
+YNL209W	2	SSB2																																									
+YCL025C	2	AGP1																																									
+YMR301C	2	ATM1																																									
+YBR082C	2	UBC4																																									
+YLR405W	2	DUS4																																									
+YHR019C	2	DED81																																									
+YIL159W	2	BNR1																																									
+YIR034C	2	LYS1																																									
+YMR108W	2	ILV2																																									
+YEL046C	2	GLY1																																									
+YLL052C	2	AQY2																																									
+YLL053C	2																																										
+YPL026C	2	SKS1																																									
+YOL128C	2	YGK3																																									
+YBR283C	2	SSH1																																									
+YMR127C	2	SAS2																																									
+YLR004C	2	THI73																																									
+YJR075W	2	HOC1																																									
+YLR187W	2	SKG3																																									
+YGR121C	2	MEP1																																									
+YML123C	2	PHO84																																									
+YOR209C	2	NPT1																																									
+YDL189W	2	RBS1																																									
+YJL200C	2	ACO2																																									
+YDR472W	2	TRS31																																									
+YIL061C	2	SNP1																																									
+YJL110C	2	GZF3																																									
+YPR145W	2	ASN1																																									
+YML081W	2	TDA9																																									
+YMR129W	2	POM152																																									
+YBR115C	2	LYS2																																									
+YOR153W	2	PDR5																																									
+YGL140C	2																																										
+YDR123C	2	INO2																																									
+YOL020W	2	TAT2																																									
+YLL051C	2	FRE6																																									
+YHR013C	2	ARD1																																									
+YDR234W	2	LYS4																																									
+YLR380W	2	CSR1																																									
+YPL274W	2	SAM3																																									
+YJR137C	2	MET5																																									
+YGR239C	2	PEX21																																									
+YGR166W	2	TRS65																																									
+YDL182W	2	LYS20																																									
+YDL182W	2	LYS20																																									
+YLR044C	2	PDC1																																									
+YDL131W	2	LYS21																																									
+YLR147C	2	SMD3																																									
+YDR121W	2	DPB4																																									
+YPR019W	2	MCM4																																									
+YNL255C	2	GIS2																																									
+YGL044C	2	RNA15																																									
+YPL235W	2	RVB2																																									
+YDR429C	2	TIF35																																									
+YJR042W	2	NUP85																																									
+YBR143C	2	SUP45																																									
+YOL137W	2	BSC6																																									
+YOR224C	2	RPB8																																									
+YML094W	2	GIM5																																									
+YPR163C	2	TIF3																																									
+YBL023C	2	MCM2																																									
+YNR015W	2	SMM1																																									
+YGL201C	2	MCM6																																									
+YDR152W	2	GIR2																																									
+YDR190C	2	RVB1																																									
+YJL194W	2	CDC6																																									
+YER148W	2	SPT15																																									
+YOR133W	2	EFT1																																									
+YDR524C	2	AGE1																																									
+YJR024C	2	MDE1																																									
+YDR341C	2																																										
+YOL115W	2	PAP2																																									
+YLR367W	2	RPS22B																																									
+YLR367W	2	RPS22B																																									
+YLR367W	2	RPS22B																																									
+YBR202W	2	MCM7																																									
+YER007C-A	2	TMA20																																									
+YOR182C	2	RPS30B																																									
+YGR118W	2	RPS23A																																									
+YOR167C	2	RPS28A																																									
+YOR167C	2	RPS28A																																									
+YLR333C	2	RPS25B																																									
+YOL139C	2	CDC33																																									
+YCL026C-A	2	FRM2																																									
+YDL191W	2	RPL35A																																									
+YMR116C	2	ASC1																																									
+YMR116C	2	ASC1																																									
+YJR094W-A	2	RPL43B																																									
+YOL127W	2	RPL25																																									
+YMR230W	2	RPS10B																																									
+YIL064W	2	SEE1																																									
+YMR194W	2	RPL36A																																									
+YMR194W	2	RPL36A																																									
+YML106W	2	URA5																																									
+YMR260C	2	TIF11																																									
+YDL081C	2	RPP1A																																									
+YOR369C	2	RPS12																																									
+YLL045C	2	RPL8B																																									
+YLL045C	2	RPL8B																																									
+YOR276W	2	CAF20																																									
+YOR234C	2	RPL33B																																									
+YKR094C	2	RPL40B																																									
+YKR094C	2	RPL40B																																									
+YKL156W	2	RPS27A																																									
+YMR235C	2	RNA1																																									
+YLR344W	2	RPL26A																																									
+YNL004W	2	HRB1																																									
+YNL301C	2	RPL18B																																									
+YNL301C	2	RPL18B																																									
+YOR260W	2	GCD1																																									
+YDR026C	2																																										
+YKR057W	2	RPS21A																																									
+YGL123W	2	RPS2																																									
+YGL103W	2	RPL28																																									
+YEL054C	2	RPL12A																																									
+YHR021C	2	RPS27B																																									
+YGR148C	2	RPL24B																																									
+YLR264W	2	RPS28B																																									
+YLR264W	2	RPS28B																																									
+YDR471W	2	RPL27B																																									
+YPL220W	2	RPL1A																																									
+YIL052C	2	RPL34B																																									
+YGR195W	2	SKI6																																									
+YLR430W	2	SEN1																																									
+YDR418W	2	RPL12B																																									
+YDR418W	2	RPL12B																																									
+YPL090C	2	RPS6A																																									
+YNL096C	2	RPS7B																																									
+YNL096C	2	RPS7B																																									
+YPR102C	2	RPL11A																																									
+YHL001W	2	RPL14B																																									
+YBR288C	2	APM3																																									
+YLR441C	2	RPS1A																																									
+YLR441C	2	RPS1A																																									
+YDR064W	2	RPS13																																									
+YBL092W	2	RPL32																																									
+YMR242C	2	RPL20A																																									
+YLR048W	2	RPS0B																																									
+YLR048W	2	RPS0B																																									
+YLR048W	2	RPS0B																																									
+YIL078W	2	THS1																																									
+YLR325C	2	RPL38																																									
+YGL030W	2	RPL30																																									
+YML026C	2	RPS18B																																									
+YLR388W	2	RPS29A																																									
+YJL189W	2	RPL39																																									
+YDL075W	2	RPL31A																																									
+YDL075W	2	RPL31A																																									
+YDL082W	2	RPL13A																																									
+YBR055C	2	PRP6																																									
+YML024W	2	RPS17A																																									
+YPL079W	2	RPL21B																																									
+YHR010W	2	RPL27A																																									
+YKL006W	2	RPL14A																																									
+YKL006W	2	RPL14A																																									
+YKL006W	2	RPL14A																																									
+YPL198W	2	RPL7B																																									
+YJL136C	2	RPS21B																																									
+YJL136C	2	RPS21B																																									
+YHL015W	2	RPS20																																									
+YDL235C	2	YPD1																																									
+YPL273W	2	SAM4																																									
+YGR085C	2	RPL11B																																									
+YGR004W	2	PEX31																																									
+YOR293W	2	RPS10A																																									
+YOR293W	2	RPS10A																																									
+YMR223W	2	UBP8																																									
+YFR032C-A	2	RPL29																																									
+YPL249C-A	2	RPL36B																																									
+YLR287C-A	2	RPS30A																																									
+YBL072C	2	RPS8A																																									
+YDR023W	2	SES1																																									
+YLR406C	2	RPL31B																																									
+YLR406C	2	RPL31B																																									
+YLR406C	2	RPL31B																																									
+YJL177W	2	RPL17B																																									
+YJL177W	2	RPL17B																																									
+YJL177W	2	RPL17B																																									
+YJL177W	2	RPL17B																																									
+YBR191W	2	RPL21A																																									
+YER131W	2	RPS26B																																									
+YNL302C	2	RPS19B																																									
+YML063W	2	RPS1B																																									
+YBR189W	2	RPS9B																																									
+YBR189W	2	RPS9B																																									
+YOL039W	2	RPP2A																																									
+YBL027W	2	RPL19B																																									
+YMR143W	2	RPS16A																																									
+YJR123W	2	RPS5																																									
+YNL162W	2	RPL42A																																									
+YIL133C	2	RPL16A																																									
+YJL190C	2	RPS22A																																									
+YLR065C	2	ENV10																																									
+YDR500C	2	RPL37B																																									
+YPR132W	2	RPS23B																																									
+YER074W	2	RPS24A																																									
+YOL120C	2	RPL18A																																									
+YNL178W	2	RPS3																																									
+YPL143W	2	RPL33A																																									
+YER055C	2	HIS1																																									
+YLR029C	2	RPL15A																																									
+YLR029C	2	RPL15A																																									
+YOR096W	2	RPS7A																																									
+YOR096W	2	RPS7A																																									
+YFR031C-A	2	RPL2A																																									
+YDR382W	2	RPP2B																																									
+YJL179W	2	PFD1																																									
+YMR142C	2	RPL13B																																									
+YOL145C	2	CTR9																																									
+YBL087C	2	RPL23A																																									
+YNL069C	2	RPL16B																																									
+YBR048W	2	RPS11B																																									
+YPL081W	2	RPS9A																																									
+YPL081W	2	RPS9A																																									
+YGL031C	2	RPL24A																																									
+YGR214W	2	RPS0A																																									
+YGR214W	2	RPS0A																																									
+YLR061W	2	RPL22A																																									
+YHR020W	2																																										
+YLR062C	2	BUD28																																									
+YER056C-A	2	RPL34A																																									
+YER056C-A	2	RPL34A																																									
+YGL076C	2	RPL7A																																									
+YGL076C	2	RPL7A																																									
+YPL131W	2	RPL5																																									
+YDR333C	2																																										
+YPL207W	2	TYW1																																									
+YLR448W	2	RPL6B																																									
+YLR340W	2	RPP0																																									
+YOL094C	2	RFC4																																									
+YDR441C	2	APT2																																									
+YGL189C	2	RPS26A																																									
+YGR027C	2	RPS25A																																									
+YLR185W	2	RPL37A																																									
+YDL083C	2	RPS16B																																									
+YDL083C	2	RPS16B																																									
+YJR145C	2	RPS4A																																									
+YMR121C	2	RPL15B																																									
+YCR031C	2	RPS14A																																									
+YKL180W	2	RPL17A																																									
+YKL180W	2	RPL17A																																									
+YDR012W	2	RPL4B																																									
+YOL040C	2	RPS15																																									
+YFL034C-A	2	RPL22B																																									
+YMR277W	2	FCP1																																									
+YML073C	2	RPL6A																																									
+YDR528W	2	HLR1																																									
+YDL061C	2	RPS29B																																									
+YPR043W	2	RPL43A																																									
+YPR043W	2	RPL43A																																									
+YJL061W	2	NUP82																																									
+YOR063W	2	RPL3																																									
+YLR355C	2	ILV5																																									
+YDL130W	2	RPP1B																																									
+YDL130W	2	RPP1B																																									
+YPL254W	2	HFI1																																									
+YBR166C	2	TYR1																																									
+YML060W	2	OGG1																																									
+YNR051C	2	BRE5																																									
+YNL067W	2	RPL9B																																									
+YNL067W	2	RPL9B																																									
+YBR023C	2	CHS3																																									
+YER092W	2	IES5																																									
+YLL033W	2	IRC19																																									
+YLR150W	2	STM1																																									
+YER052C	2	HOM3																																									
+YHL033C	2	RPL8A																																									
+YBR195C	2	MSI1																																									
+YGL148W	2	ARO2																																									
+YBR240C	2	THI2																																									
+YDR233C	2	RTN1																																									
+YDL073W	2																																										
+YHR133C	2	NSG1																																									
+YOL064C	2	MET22																																									
+YAL003W	2	EFB1																																									
+YAL003W	2	EFB1																																									
+YPR035W	2	GLN1																																									
+YKR042W	2	UTH1																																									
+YAL033W	2	POP5																																									
+YPL221W	2	FLC1																																									
+YPL112C	2	PEX25																																									
+YLR413W	2																																										
+YEL042W	2	GDA1																																									
+YDR454C	2	GUK1																																									
+YPL263C	2	KEL3																																									
+YLR359W	2	ADE13																																									
+YDR489W	2	SLD5																																									
+YMR321C	2																																										
+YPL199C	2																																										
+YPL227C	2	ALG5																																									
+YMR318C	2	ADH6																																									
+YNL154C	2	YCK2																																									
+YMR010W	2																																										
+YBR121C	2	GRS1																																									
+YIR030C	2	DCG1																																									
+YDR408C	2	ADE8																																									
+YPR125W	2	YLH47																																									
+YNL298W	2	CLA4																																									
+YOR128C	2	ADE2																																									
+YLR146C	2	SPE4																																									
+YPR033C	2	HTS1																																									
+YDR482C	2	CWC21																																									
+YGL070C	2	RPB9																																									
+YGL234W	2	ADE5,7																																									
+YDR089W	2																																										
+YAR015W	2	ADE1																																									
+YOR184W	2	SER1																																									
+YPR126C	2																																										
+YJR069C	2	HAM1																																									
+YJR054W	2																																										
+YGR152C	2	RSR1																																									
+YGR151C	2																																										
+YGR151C	2																																										
+YPR013C	2																																										
+YKL212W	2	SAC1																																									
+YNL220W	2	ADE12																																									
+YEL015W	2	EDC3																																									
+YER168C	2	CCA1																																									
+YMR177W	2	MMT1																																									
+YJL133W	2	MRS3																																									
+YLR364W	2	GRX8																																									
+YLR285W	2	NNT1																																									
+YLR060W	2	FRS1																																									
+YDR300C	2	PRO1																																									
+YGL097W	2	SRM1																																									
+YOL056W	2	GPM3																																									
+YKR061W	2	KTR2																																									
+YDR297W	2	SUR2																																									
+YPL245W	2																																										
+YPR060C	2	ARO7																																									
+YDR267C	2	CIA1																																									
+YOR246C	2	ENV9																																									
+YFL028C	2	CAF16																																									
+YER149C	2	PEA2																																									
+YGR208W	2	SER2																																									
+YLR335W	2	NUP2																																									
+YGL202W	2	ARO8																																									
+YCR008W	2	SAT4																																									
+YDR331W	2	GPI8																																									
+YEL040W	2	UTR2																																									
+YGR124W	2	ASN2																																									
+YLR083C	2	EMP70																																									
+YLR092W	2	SUL2																																									
+YMR120C	2	ADE17																																									
+YCR043C	2																																										
+YLR357W	2	RSC2																																									
+YDL236W	2	PHO13																																									
+YDR245W	2	MNN10																																									
+YML077W	2	BET5																																									
+YAR073W	2	IMD1																																									
+YMR240C	2	CUS1																																									
+YGR020C	2	VMA7																																									
+YGR204W	2	ADE3																																									
+YJL171C	2																																										
+YMR091C	2	NPL6																																									
+YBR172C	2	SMY2																																									
+YOR222W	2	ODC2																																									
+YPL050C	2	MNN9																																									
+YKR069W	2	MET1																																									
+YNL188W	2	KAR1																																									
+YIL021W	2	RPB3																																									
+YJR105W	2	ADO1																																									
+YHR167W	2	THP2																																									
+YGL203C	2	KEX1																																									
+YBR213W	2	MET8																																									
+YAR075W	2																																										
+YLR372W	2	SUR4																																									
+YOR305W	2	RRG7																																									
+YER091C	2	MET6																																									
+YOL029C	2																																										
+YMR033W	2	ARP9																																									
+YNL217W	2																																										
+YLR342W	2	FKS1																																									
+YFR055W	2	IRC7																																									
+YKL128C	2	PMU1																																									
+YDR042C	2																																										
+YOR297C	2	TIM18																																									
+YFR030W	2	MET10																																									
+YNL087W	2	TCB2																																									
+YBR252W	2	DUT1																																									
+YLR358C	2																																										
+YBL083C	2																																										
+YEL072W	2	RMD6																																									
+YKL081W	2	TEF4																																									
+YKL081W	2	TEF4																																									
+YHR149C	2	SKG6																																									
+YLR020C	2	YEH2																																									
+YOR239W	2	ABP140																																									
+YHR144C	2	DCD1																																									
+YDR302W	2	GPI11																																									
+YKL018W	2	SWD2																																									
+YOR233W	2	KIN4																																									
+YNL074C	2	MLF3																																									
+YNL016W	2	PUB1																																									
+YOR241W	2	MET7																																									
+YMR285C	2	NGL2																																									
+YIL094C	2	LYS12																																									
+YLR179C	2																																										
+YLR059C	2	REX2																																									
+YGL225W	2	VRG4																																									
+YFR034C	2	PHO4																																									
+YIL074C	2	SER33																																									
+YJL134W	2	LCB3																																									
+YNL021W	2	HDA1																																									
+YLR303W	2	MET17																																									
+YLR455W	2																																										
+YBL082C	2	ALG3																																									
+YGR058W	2	PEF1																																									
+YNL276C	2																																										
+YOL002C	2	IZH2																																									
+YBL061C	2	SKT5																																									
+YOL103W	2	ITR2																																									
+YOL052C	2	SPE2																																									
+YPL128C	2	TBF1																																									
+YDR309C	2	GIC2																																									
+YNR050C	2	LYS9																																									
+YOR188W	2	MSB1																																									
+YDR046C	2	BAP3																																									
+YPR167C	2	MET16																																									
+YGL009C	2	LEU1																																									
+YOR079C	2	ATX2																																									
+YLR300W	2	EXG1																																									
+YNL231C	2	PDR16																																									
+YPL233W	2	NSL1																																									
+YPR074C	2	TKL1																																									
+YCR034W	2	FEN1																																									
+YLR195C	2	NMT1																																									
+YML115C	2	VAN1																																									
+YER005W	2	YND1																																									
+YMR241W	2	YHM2																																									
+YPL214C	2	THI6																																									
+YBR246W	2	RRT2																																									
+YMR039C	2	SUB1																																									
+YLR176C	2	RFX1																																									
+YBR220C	2																																										
+YBR220C	2																																										
+YNL010W	2																																										
+YMR016C	2	SOK2																																									
+YDR098C	2	GRX3																																									
+YOR143C	2	THI80																																									
+YIR023W	2	DAL81																																									
+YFL010C	2	WWM1																																									
+YGR136W	2	LSB1																																									
+YGR136W	2	LSB1																																									
+YPL244C	2	HUT1																																									
+YOR375C	2	GDH1																																									
+YOR299W	2	BUD7																																									
+YOR299W	2	BUD7																																									
+YCL018W	2	LEU2																																									
+YNR014W	2																																										
+YKL001C	2	MET14																																									
+YPR159W	2	KRE6																																									
+YHR216W	2	IMD2																																									
+YDR158W	2	HOM2																																									
+YBR007C	2	DSF2																																									
+YJL208C	2	NUC1																																									
+YOL028C	2	YAP7																																									
+YLR326W	2																																										
+YBL016W	2	FUS3																																									
+YBL008W	2	HIR1																																									
+YNL140C	2																																										
+YJR010W	2	MET3																																									
+YGR169C	2	PUS6																																									
+YLR040C	2																																										
+YCR027C	2	RHB1																																									
+																																											
+This table contains subclusters of Ox phase genes. Correspond to Figure 1B.																																											
