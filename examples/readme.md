@@ -7,10 +7,11 @@ Both examples use the information stored in the `data` folder and save the outpu
 
 ## Inputs
 Four inputs are needed:
-- ```inputFile```       : Name of the csv file with required information.
+- ```inputFileName```       : Name of the csv file with required information.
 - ```resultsDir```      : Name of the directory where output files will be stored.
 - ```verbosity```       : Verbose mode.
 - ```prefix_log_file``` : Prefix log output file.
+
 ### Input file
 The input file is a comma-separated file containing: the name of the organism, the condition, medium, gene expression file, and genome-scale metabolic network. 
 More than one row can be defined in the same file. Pheflux will be run on the data provided for each line. For example, the input file ```examples/data/InputData_yeast_example.csv``` contains the following:
