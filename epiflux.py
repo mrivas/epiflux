@@ -377,7 +377,7 @@ def summaryTable(Summary ,condition, lbx, ubx, time, status):
 print('Welcome to EpiFlux ! \n')
 
 
-def Pheflux(inputFileName, processDir):
+def getFluxes(inputFileName, processDir):
     processStart = time.time()
     # Table of results
     summary = pd.DataFrame()
