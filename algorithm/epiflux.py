@@ -6,7 +6,7 @@ from codEpiflux import *
 
 # Description:
 # ------------
-parser = argparse.ArgumentParser(description='Welcome to Pheflux.')
+parser = argparse.ArgumentParser(description='Welcome to Epiflux.')
 
 # Arguments:
 # ----------
