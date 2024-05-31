@@ -2,7 +2,7 @@ import argparse
 import os
 #import sys
 #sys.path.append("../metabolic-models/")
-from codEpiflux import *
+from epiflux import *
 
 # Description:
 # ------------
