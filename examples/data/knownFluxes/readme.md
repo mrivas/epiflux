@@ -1,5 +1,4 @@
-
-#knownFluxes
+# knownFluxes
 
 In this folder, you can add the known fluxes. Just make sure that the name of the reaction is consistent with the GEM you will use. 
 For example, in this case, we add the oxygen and biomass consumption reactions represented in the iMM904 model as "R_EX_o2_e" and "R_BIOMASS_SC5_notrace".
