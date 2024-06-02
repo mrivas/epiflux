@@ -7,8 +7,6 @@ Contents:
 - transcriptomes: Genetic expression (RNA-seq) across the 16 times of YMC. This information was obtained in the study by Kuang *et al.* (2014) under the access code [GSE52339](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE52339)
 - InputData_yeast_example.csv : Required input file in epiflux/algorithm/example.sh
 
-*The RNA-seq and ChIP-seq data changed from 16 times to 15, this is due to the specifications of the study by Sánchez *et al.* (2018) where times 10 and 11 are averaged for RNA-seq and times 13 and 14 for ChIP-seq data.
-
 *RNA-seq and ChIP-seq data changed from 16 times to 15, this is due to the specifications of the study by Sanchez *et al.* (2018), where times 10 and 11 are averaged for predictions made with RNA-seq (transcriptomes) and times 13 and 14 for ChIP-seq data (epigenetics).
 
 # References
