@@ -1,4 +1,6 @@
 # algorithm
+- epiflux.py:  Python3 version of Pheflux ([Gonzalez et al., 2023](https://doi.org/10.1016/j.isci.2023.106201)). This version (called Epiflux), can incorporate known exchange fluxes as extra constraints to infer the distribution of metabolic fluxes for a given transcriptome.
+  
 The use of `epiflux.py` is exemplified in the following files:
 - tutorial.ipynb: Tutorial of `epiflux.py` using Jupyter notebook.
 - example.sh: Example run of epiflux.py using Linux bash script. It calls the `terminalEpiflux.py` file.
