@@ -9,6 +9,8 @@ Contents:
 
 *The RNA-seq and ChIP-seq data changed from 16 times to 15, this is due to the specifications of the study by Sánchez *et al.* (2018) where times 10 and 11 are averaged for RNA-seq and times 13 and 14 for ChIP-seq data.
 
+*RNA-seq and ChIP-seq data changed from 16 times to 15, this is due to the specifications of the study by Sanchez *et al.* (2018), where times 10 and 11 are averaged for predictions made with RNA-seq (transcriptomes) and times 13 and 14 for ChIP-seq data (epigenetics).
+
 # References
 
 Kuang, Z., Cai, L., Zhang, X., Ji, H., Tu, B.P. and Boeke, J.D., 2014. High-temporal-resolution view of transcription and chromatin states across distinct metabolic states in budding yeast. *Nature structural & molecular biology*, 21(10), pp.854-863.
