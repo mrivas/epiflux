@@ -1,5 +1,5 @@
 # Contents:
 - algorithm:
-  - epiflux.py : Python3 version of Pheflux ([Gonzalez et al., 2023](https://doi.org/10.1016/j.isci.2023.106201)) that is able to incorporate known exchange fluxes as extra constraints to infer the distribution of metabolic fluxes for a given transcriptome.  
+  - epiflux.py :  Python3 version of Pheflux ([Gonzalez et al., 2023](https://doi.org/10.1016/j.isci.2023.106201)). This version (called Epiflux), can incorporate known exchange fluxes as extra constraints to infer the distribution of metabolic fluxes for a given transcriptome.  
 - examples: Folder containing examples running Epiflux for *S. cerevisiae*
 - paper_figures: Jupyter notebooks used to generate the figures of the paper.
