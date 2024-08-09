@@ -374,7 +374,7 @@ def optEpiFlux(model,fpkmDic,k,fluxesDic,init_time,vo2Known):
         reaction_flux = ( EpiFlux[i] - EpiFlux[i+1] ) # (forward - reverse)
         EpiFlux_fluxes[name] =  float(reaction_flux)
     EpiFlux_fluxes = pd.Series(EpiFlux_fluxes)
-    # Asignar nombres a las columnas
+    # Column names
     EpiFlux_fluxes.index.name = 'Reaction'
     EpiFlux_fluxes.name = 'Flux'
     
